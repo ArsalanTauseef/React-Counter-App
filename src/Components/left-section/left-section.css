@@ -1,0 +1,26 @@
+.leftDiv {
+    height: 100%;
+    background-color: aliceblue;
+    width: 60%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card1 {
+    background-color: aqua;
+    height: 33%;
+    text-align: center;
+}
+.card2 {
+    background-color: aqua;
+    height: 33%;
+    text-align: center;
+
+}
+.card6 {
+    background-color: aqua;
+    height: 34%;
+    text-align: center;
+
+}

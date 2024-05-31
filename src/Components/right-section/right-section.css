@@ -1,0 +1,17 @@
+.rightDiv {
+    height: 100%;
+    background-color: aliceblue;
+    width: 20%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.card3 {
+    background-color: rgb(210, 153, 19);
+    height: 50%;
+}
+.card4 {
+    background-color: rgb(210, 153, 19);
+    height: 50%;
+}
